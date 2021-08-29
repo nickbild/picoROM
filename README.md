@@ -30,9 +30,19 @@ Speaking of processing cycles... I have been using PicoROM with a 2 MHz system c
 
 ## Media
 
+Running Vectron 65 OS with PicoROM:
+![Vectron 65](https://raw.githubusercontent.com/nickbild/picoROM/main/media/vectron_65_screen_sm.jpg)
+
+PicoROM attached to Vectron 65:
+![Vectron 65 with PicoROM](https://raw.githubusercontent.com/nickbild/picoROM/main/media/picorom_with_vectron_65_sm.jpg)
+
+PicoROM close-up:
+![Vectron 65](https://raw.githubusercontent.com/nickbild/picoROM/main/media/picorom_close_sm.jpg)
+
 ## Bill of Materials
 
-1 x Raspberry Pi Pico
+- 1 x Raspberry Pi Pico
+- 3 x 74LVC245AN
 
 ## About the Author
 
