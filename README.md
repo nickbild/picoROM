@@ -2,7 +2,7 @@
 
 PicoROM emulates ROM chips to allow for rapid development of retro computer software.  Rather than remove the ROM IC, burn new contents, and replace the chip for each iteration, PicoROM makes it possible to simply drag-and-drop new code, without even turning the retro computer off.
 
-I'm using it to emulate an Atmel 28C256 32KB EEPROM, but it should be compatible with many other chips without modification.
+I'm using it to emulate an Atmel 28C256 32KB EEPROM, but it should be compatible with many other similar chips without modification.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/nickbild/picoROM/main/media/picorom_with_vectron_65_close_sm.jpg">
