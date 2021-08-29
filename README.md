@@ -1,4 +1,3 @@
-# Pico ROM
+# PicoROM
 
 Coming Soon!
-# picoROM
