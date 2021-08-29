@@ -8,7 +8,7 @@ I'm using it to emulate an Atmel 28C256 32KB EEPROM, but it should be compatible
 <img src="https://raw.githubusercontent.com/nickbild/picoROM/main/media/picorom_with_vectron_65_close_sm.jpg">
 </p>
 
-I previously built a similar device, [RapidROM](https://github.com/nickbild/fpga_rom_emulator), with an FPGA.  While this solution works great, I've heard from a lot of people that wanted to modify it to work with different ROM chips, but found it too difficult because of an unfamiliarity with Verilog or FPGAs.  I've also heard from a number of people that wanted to port it to different hardware that they already had—because the TinyFPGA is a little bit pricey to buy just for this purpose—but this is generally somewhere between a pain and impossible to do, depending on the hardware.
+I previously built a similar device, [RapidROM](https://github.com/nickbild/fpga_rom_emulator), with an FPGA.  While this solution works great, I've heard from a lot of people that wanted to modify it to work with different ROM chips, but found it too difficult because of an unfamiliarity with Verilog or FPGAs.  I've also heard from a number of people that wanted to port it to different hardware that they already had—because the TinyFPGA I used is a little bit pricey to buy just for this purpose—but this is generally somewhere between a pain and impossible to do, depending on the hardware.
 
 For these reasons, I built PicoROM.  It is built with a Raspberry Pi Pico microcontroller in C++, which is more familiar to most people, and therefore easier to adapt to different chips.  It is also very inexpensive at only $4 retail in single quantity.
 
