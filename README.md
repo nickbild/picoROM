@@ -26,7 +26,7 @@ Here is PicoROM:
 
 The Pico really does the work in this circuit.  The rest of it is 74LVC245AN 8-bit logic level shifter chips, to safely interface the 3.3V Pico with my 5V [Vectron 65](https://github.com/nickbild/vectron_65) 6502-based computer.  For the 74LVC245AN attached to the data bus, I connect the chip's output enable pin to the Vectron 65's chip enable signal for the ROM.  That sets the PicoROM data lines to high-Z for free, without taking any processing cycles.
 
-Speaking of processing cycles... I have been using PicoROM with a 2 MHz system clock with perfect stability.
+Speaking of processing cycles... I have been using PicoROM with a 2 MHz system clock with perfect stability.  I'm not sure how far it can be pushed, but it is handling my current requirement with no problems.
 
 ## Media
 
