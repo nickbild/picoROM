@@ -33,7 +33,7 @@ Speaking of processing cycles... I have been using PicoROM with a 2 MHz system c
 Running Vectron 65 OS with PicoROM:
 ![Vectron 65](https://raw.githubusercontent.com/nickbild/picoROM/main/media/vectron_65_screen_sm.jpg)
 
-PicoROM attached to Vectron 65:
+PicoROM attached to Vectron 65 (and ROM chip removed):
 ![Vectron 65 with PicoROM](https://raw.githubusercontent.com/nickbild/picoROM/main/media/picorom_with_vectron_65_sm.jpg)
 
 PicoROM close-up:
